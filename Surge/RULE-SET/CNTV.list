@@ -1,5 +1,6 @@
 # > Bilibili
 USER-AGENT,*bili*
+DOMAIN-SUFFIX,5176.run
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliapi.net
@@ -68,5 +69,3 @@ DOMAIN,wetv.acc.qq.com
 DOMAIN,hwvip.video.qq.com
 IP-CIDR,150.109.28.51/32,no-resolve
 
-# > vpn
-DOMAIN-SUFFIX,5176.run
